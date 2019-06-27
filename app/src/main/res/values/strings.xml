@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="login">Login</string>
+    <string name="email_id">email id</string>
+
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="your_password">Your Password</string>
+    <string name="your_username">Your Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="image">image</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+    <string name="email">Email</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="after_login">After Login</string>
+    <string name="logout">LogOut</string>
+</resources>
